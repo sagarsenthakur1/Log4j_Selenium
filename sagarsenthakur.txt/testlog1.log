@@ -1,0 +1,32 @@
+
+2020-08-10 12:27:43,904 [main] INFO com.generatelogs.Google - MicrosoftEdge Opened
+2020-08-10 12:27:44,264 [main] INFO com.generatelogs.Google - Implicit wait given
+2020-08-10 12:27:46,576 [main] INFO com.generatelogs.Google - Browser Maximized
+2020-08-10 12:27:46,757 [main] INFO com.generatelogs.Google - App launched
+2020-08-10 12:27:46,757 [main] INFO com.generatelogs.Google - Sample info message
+2020-08-10 12:27:46,757 [main] ERROR com.generatelogs.Google - Sample error message
+2020-08-10 12:27:46,758 [main] FATAL com.generatelogs.Google - Sample fatal message
+2020-08-10 12:28:17,116 [main] INFO com.generatelogs.Google - MicrosoftEdge Opened
+2020-08-10 12:28:17,135 [main] INFO com.generatelogs.Google - Implicit wait given
+2020-08-10 12:28:19,320 [main] INFO com.generatelogs.Google - Browser Maximized
+2020-08-10 12:28:37,317 [main] INFO com.generatelogs.Google - App launched
+2020-08-10 12:28:37,319 [main] INFO com.generatelogs.Google - Sample info message
+2020-08-10 12:28:37,322 [main] ERROR com.generatelogs.Google - Sample error message
+2020-08-10 12:28:37,324 [main] FATAL com.generatelogs.Google - Sample fatal message
+2020-08-10 12:28:37,575 [main] INFO com.generatelogs.Google - keyword type
+2020-08-10 12:31:22,945 [main] INFO com.generatelogs.Google - MicrosoftEdge Opened
+2020-08-10 12:31:22,957 [main] INFO com.generatelogs.Google - Implicit wait given
+2020-08-10 12:31:25,147 [main] INFO com.generatelogs.Google - Browser Maximized
+2020-08-10 12:31:36,945 [main] INFO com.generatelogs.Google - App launched
+2020-08-10 12:31:36,946 [main] INFO com.generatelogs.Google - Sample info message
+2020-08-10 12:31:36,947 [main] ERROR com.generatelogs.Google - Sample error message
+2020-08-10 12:31:36,947 [main] FATAL com.generatelogs.Google - Sample fatal message
+2020-08-10 12:31:37,154 [main] INFO com.generatelogs.Google - keyword type
+2020-08-10 12:32:26,999 [main] INFO com.generatelogs.Google - MicrosoftEdge Opened
+2020-08-10 12:32:27,016 [main] INFO com.generatelogs.Google - Implicit wait given
+2020-08-10 12:32:29,168 [main] INFO com.generatelogs.Google - Browser Maximized
+2020-08-10 12:32:41,963 [main] INFO com.generatelogs.Google - App launched
+2020-08-10 12:32:41,964 [main] INFO com.generatelogs.Google - Sample info message
+2020-08-10 12:32:41,970 [main] ERROR com.generatelogs.Google - Sample error message
+2020-08-10 12:32:41,970 [main] FATAL com.generatelogs.Google - Sample fatal message
+2020-08-10 12:32:42,219 [main] INFO com.generatelogs.Google - keyword type

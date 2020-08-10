@@ -1,0 +1,31 @@
+2020-08-10 12:27:43,904 - com.generatelogs.Google -INFO - MicrosoftEdge Opened
+2020-08-10 12:27:44,264 - com.generatelogs.Google -INFO - Implicit wait given
+2020-08-10 12:27:46,576 - com.generatelogs.Google -INFO - Browser Maximized
+2020-08-10 12:27:46,757 - com.generatelogs.Google -INFO - App launched
+2020-08-10 12:27:46,757 - com.generatelogs.Google -INFO - Sample info message
+2020-08-10 12:27:46,757 - com.generatelogs.Google -ERROR - Sample error message
+2020-08-10 12:27:46,758 - com.generatelogs.Google -FATAL - Sample fatal message
+2020-08-10 12:28:17,116 - com.generatelogs.Google -INFO - MicrosoftEdge Opened
+2020-08-10 12:28:17,135 - com.generatelogs.Google -INFO - Implicit wait given
+2020-08-10 12:28:19,320 - com.generatelogs.Google -INFO - Browser Maximized
+2020-08-10 12:28:37,317 - com.generatelogs.Google -INFO - App launched
+2020-08-10 12:28:37,319 - com.generatelogs.Google -INFO - Sample info message
+2020-08-10 12:28:37,322 - com.generatelogs.Google -ERROR - Sample error message
+2020-08-10 12:28:37,324 - com.generatelogs.Google -FATAL - Sample fatal message
+2020-08-10 12:28:37,575 - com.generatelogs.Google -INFO - keyword type
+2020-08-10 12:31:22,945 - com.generatelogs.Google -INFO - MicrosoftEdge Opened
+2020-08-10 12:31:22,957 - com.generatelogs.Google -INFO - Implicit wait given
+2020-08-10 12:31:25,147 - com.generatelogs.Google -INFO - Browser Maximized
+2020-08-10 12:31:36,945 - com.generatelogs.Google -INFO - App launched
+2020-08-10 12:31:36,946 - com.generatelogs.Google -INFO - Sample info message
+2020-08-10 12:31:36,947 - com.generatelogs.Google -ERROR - Sample error message
+2020-08-10 12:31:36,947 - com.generatelogs.Google -FATAL - Sample fatal message
+2020-08-10 12:31:37,154 - com.generatelogs.Google -INFO - keyword type
+2020-08-10 12:32:26,999 - com.generatelogs.Google -INFO - MicrosoftEdge Opened
+2020-08-10 12:32:27,016 - com.generatelogs.Google -INFO - Implicit wait given
+2020-08-10 12:32:29,168 - com.generatelogs.Google -INFO - Browser Maximized
+2020-08-10 12:32:41,963 - com.generatelogs.Google -INFO - App launched
+2020-08-10 12:32:41,964 - com.generatelogs.Google -INFO - Sample info message
+2020-08-10 12:32:41,970 - com.generatelogs.Google -ERROR - Sample error message
+2020-08-10 12:32:41,970 - com.generatelogs.Google -FATAL - Sample fatal message
+2020-08-10 12:32:42,219 - com.generatelogs.Google -INFO - keyword type
